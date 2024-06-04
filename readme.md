@@ -5,6 +5,6 @@ This is an example git repository
 
 ## Contents
 
-##Another section
+## Another section
 
-##Last section of content
+## Last section of content
